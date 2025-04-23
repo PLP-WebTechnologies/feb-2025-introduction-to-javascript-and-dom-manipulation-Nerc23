@@ -1,0 +1,40 @@
+ 
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.styled {
+    color: green;
+    font-style: italic;
+    font-size: 1.2em;
+    background-color: lightyellow;
+    padding: 5px;
+}
+
+.dynamic-element {
+    margin-bottom: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+}
